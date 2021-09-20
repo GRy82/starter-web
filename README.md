@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
+Be proactive, not lazy
+
 ## Deployment
 
 2021 Git.Greg
