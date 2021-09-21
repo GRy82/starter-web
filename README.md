@@ -16,4 +16,4 @@ Be proactive, not lazy
 
 ## Deployment
 
-2021 Git.Greg
+2021 Git.Greg All rights resreved
