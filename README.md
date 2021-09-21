@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Simple Introductory statement. Adding text hhere for rebase example
+Simple Introductory statement. Adding text hhere for rebase example, and now even more changes.
 
 ## Purpose
 
